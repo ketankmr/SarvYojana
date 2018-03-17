@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/login_back">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fitsSystemWindows="true">
+
+        <include layout="@layout/toolbar"/>
+
+
+
+    </android.support.design.widget.AppBarLayout>
+
+
+    
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:itemBackground="@color/colorPrimary"
+        app:itemIconTint="@drawable/bottom_navigation_color_selector"
+        app:itemTextColor="@drawable/bottom_navigation_color_selector"
+        app:menu="@menu/menu_bottom_navigation" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/appbar"
+        android:layout_height="match_parent"
+        android:layout_marginTop="60dp"
+        android:layout_marginBottom="60dp"
+        android:layout_alignParentTop="true"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+    <com.nightonke.boommenu.BoomMenuButton
+        android:id="@+id/bmb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:bmb_buttonEnum="ham"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="60dp"
+        app:bmb_piecePlaceEnum="piecePlace_ham_4"
+        app:bmb_buttonPlaceEnum="buttonPlace_ham_4"
+        />
+
+</RelativeLayout>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar android:id="@+id/toolbarsdfs"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="#000"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+
+
+    <LinearLayout
+    android:id="@+id/profile_layout"
+    android:orientation="horizontal"
+    android:paddingTop="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="end"
+    >
+
+
+        <com.jaredrummler.materialspinner.MaterialSpinner
+            android:id="@+id/spinner"
+            android:layout_width="match_parent"
+            android:hint="Category"
+            android:layout_height="wrap_content"/>
+
+</LinearLayout>
+
+</android.support.v7.widget.Toolbar>

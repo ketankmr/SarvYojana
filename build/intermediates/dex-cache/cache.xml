@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_eeec1ca1a4f7578d51aa46f054a4fef12e46f1c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\46698139b867dd8a8b3a1c55a0e60422bc5e5150\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_508dc1f9d0e06ced4a915f2121405b8017a94016.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\6a3e219f8ba7be1876f8f7d75b2388d2f888993b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_c97af465bd5cd8226a32f73c193b537b721c118d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\f3bc16becd68c369a3d0dc32b0825544690b9e58\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1c250352bb7bbd5ea1982ca5165f2a81f36b530">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_ac225c6495d3d5a41d2809cf96f1590239eb7313.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\7ddfed858ab42abce81d233679cee40b00f08b9c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6fff1d276738bb82cfc131c49d2e72a47dfd0aa">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_9df8b6408550c8587d95b410f7931d3c38797e40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\c5597f2ff7c7ed97d17e4fc313f9821826d9f544\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_8c3db89505ceaedd4315d02e979d9eca8c44bef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\c5539403add6208e8d33b28dfb3f8b378646b6bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c44026185adf61f12630db36ac6781481f559e7c">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_6ebf8a2f7cb369988bf06569666a0c227d4aa2e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\5616fd04208fb107a096479880cfca43235c861f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e3b8ecc558c6deeb90eb3934c1c715128ab26dcd">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_9391188b19a187d3d6bfbb9ac90ed168ef29e4b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\8c69bb2ac4bcea58a1ba29d2aa2eb9dd0962c9de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_cbb8af26f9cfe59b2063c5454580e65215b4ebfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\9d400c5be854016191b604ee6a9505cfb7b8c824\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_18f65fd0cccf269564734f72ca2d6fd84e14f4ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_ec1d66f5d75890b16c8eb45b3676542498212a21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\ad8040a965ff0224f4fe6c2ecc602854cf969349\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_88d3b083593c19dbaab99479317d3e7afa930ea7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\gson-2.8.1_0897eaefe335113c3d59f15f3ea24a9be2ed9682.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\98650384f5333f46dedf22879ff5d7f1154258aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8fb648e3321f9556ac5b36485b0028f455350c4a">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_8665642aa9b40a9aa10bab09a5fb837d3551da3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\215ad6e7218c4dedcb86b9d619be2366f53c5ebd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc853652fcf47d99e37ab1362c228d1ef90a2a1f">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_4d6710068092a94d2ad586faeb0e9f602f217756.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\f0c6c462bf6f3aa84902a48cbaf387644095bbfd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="821200fa3e07f93d0ae66e4a5917db8bac69dfe1">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_d8d7527842f72f5b79ba5cf5f174cda76b7dadb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\d5b0bb29a3320b2aea16d5e6d99130cb967ec39b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_add932189f7063b8fdbc324bc2ff6046e26431cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\e4fb1299c0aae209b93d3c097d32e58c6a4c3a6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_6e1aca41733a8357bd8f525a6d5fa6f2331cad5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\cc5f20f226ab4e868e2d52b5860626a46d10bda6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95d97996ec624fca99f6b06ad6004c749259970d">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_67784e44c6de80398905f4ea427e8394586adc76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\31d1cae9c2f8a4f34df5d2dd8d66cccf5a1af27d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_1b4f13abd442b6c5c21847ba5a6f306e51643434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\a4379423f89895f69ae3660ae17fc41fc567cb03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_968cf03ce3c4dc25d9ebab798ca30ea5156b1f18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\866f0413555aa2bf7f2391903521ea08fc2ebc50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cccf119dc62f9d599032e5ff9404d179051387c2">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_aaca2112e897878d8d9cbfdab679c6a3969bf8d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ketan-PC\.android\build-cache\bab70a439b63015f83d1c2db3d7e8f4730503a11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="F:\projects\hackocracy\gov_scheme App\app\build\intermediates\pre-dexed\debug\classes_e1a0e16c7fb3eefff17374f1127e635e030638e9.jar" />
+    </item>
+
+</items>

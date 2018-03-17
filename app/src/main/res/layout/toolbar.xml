@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar android:id="@+id/toolbarsdfs"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="#000"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+
+
+    <LinearLayout
+    android:id="@+id/profile_layout"
+    android:orientation="horizontal"
+    android:paddingTop="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="end"
+    >
+
+
+
+
+
+    <com.mikhaellopez.circularimageview.CircularImageView
+        android:id="@+id/CircularImage"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/user"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="right"
+        app:civ_shadow="true"
+        app:civ_shadow_color="#8BC34A"
+        app:civ_shadow_radius="0.4" />
+
+</LinearLayout>
+
+</android.support.v7.widget.Toolbar>
